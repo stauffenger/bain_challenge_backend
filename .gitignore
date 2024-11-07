@@ -1,0 +1,12 @@
+__pycache__
+dist
+build
+
+*.csv
+*.txt
+*.json
+*.spec
+.env
+.vscode
+
+!requirements.txt
